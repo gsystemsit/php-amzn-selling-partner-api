@@ -1,5 +1,5 @@
 {
-    "name": "jasara/php-amzn-selling-partner-api",
+    "name": "gsystemsit/php-amzn-selling-partner-api",
     "description": "A fluent interface for Amazon's Selling Partner API in PHP",
     "type": "library",
     "license": "CC-BY-NC-SA-4.0",
